@@ -232,3 +232,44 @@ nav{
     font-weight: 400;
     margin-top: 65px;
 }
+
+.background{
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    gap: 65px;
+    width: 1000px;
+    height: 275px; 
+    padding: 80px 100px 80px 100px;
+    margin-left: 380px;
+    margin-top: 80px;
+    margin-bottom: 80px;
+}
+.last-title{
+    font-size: 40px;
+    font-weight: 700;
+}
+.last-description{
+    color: rgba(14, 14, 14, 0.7);
+    font-size: 16px;
+    font-weight: 400;
+}
+.email{
+    gap: 24;
+padding: 18px 40px 18px 40px;
+width: 500px;
+height: 20px;
+}
+.btn-last{
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    background: rgb(0, 106, 80);
+    padding: 13px 26px 13px 26px;
+    justify-content: center;
+    border: rgb(0, 106, 80);
+    color: white;
+    height: 58px;
+
+}
