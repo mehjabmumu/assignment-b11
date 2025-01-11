@@ -282,6 +282,7 @@ font-weight: 700;
 .icons{
     text-align: center;
     justify-content: center;
+    margin-bottom: 50px;
 }
 .btn-sign:hover{
     background-color: gray;
@@ -316,13 +317,24 @@ font-weight: 700;
 
 .bg-title{
     color: rgba(14, 14, 14, 0.8);
-font-family: Fira Sans;
-font-size: 20px;
-font-weight: 600;
+    font-family: Fira Sans;
+    font-size: 20px;
+    font-weight: 600;
+    margin-top: 5px;
 }
 .bg-last{
     color: rgba(14, 14, 14, 0.6);
-font-family: Fira Sans;
-font-size: 16px;
-font-weight: 400;
+    font-family: Fira Sans;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 0%;
+}
+.btn-one:hover{
+    background-color: grey;
+}
+.btn-two:hover{
+    background-color: grey;
+}
+.btn-three:hover{
+    background-color: grey;
 }
